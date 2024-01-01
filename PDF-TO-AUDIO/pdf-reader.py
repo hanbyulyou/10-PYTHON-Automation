@@ -8,7 +8,7 @@ import pyttsx3
 from PyPDF2 import PdfReader
 
 # Initialize the PDF reader with the specified PDF file
-pdf_reader = PdfReader('PDF-TO-AUDIO/massive_manual.pdf')
+pdf_reader = PdfReader('PDF-TO-AUDIO/xx.pdf')
 
 # Initialize the text-to-speech engine
 speaker = pyttsx3.init()
